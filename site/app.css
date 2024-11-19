@@ -1,0 +1,19 @@
+html, body {
+  margin: 0 auto;
+  max-width: 640px;
+  background: #ffffff;
+  background-image: url("img/bg/5024.gif");
+  background-repeat: repeat;
+}
+
+body {
+  padding: 0 8px 32px 8px;
+  color: #000000;
+  display: table;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
